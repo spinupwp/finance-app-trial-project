@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="36" height="36" x="1" y="1" fill="#0054FE" stroke="#0054FE" stroke-width="2" rx="2"/>
+    <g fill="#FFF" transform="rotate(-90 21 12)">
+      <rect width="24" height="4" y="18" rx="1"/>
+      <rect width="7" height="4" rx="1"/>
+      <rect width="15" height="4" y="9" rx="1"/>
+    </g>
+  </g>
+</svg>
