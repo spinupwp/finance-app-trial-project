@@ -65,3 +65,4 @@ Imported entries should not appear in the balance list, until the entire import 
 1. When you're ready to proceed with Phase 2, create a new `phase2` branch off of the `phase1` branch
 1. When it's ready for review, push the branch to your GitHub repo and open another PR to merge the branch into the `phase1` branch
 1. Reply to our email thread and let me know that Phase 2 is ready for review with a link to the PR and how much time you've put in so far
+1. If you make your repo private, grant access to the following users: @georgefehr, @bradt, @Jamesclark32
